@@ -10,7 +10,7 @@ I will try to add notes to read literature for indexing, reviewing and recapitul
 
 ## Markdown guides
 * https://guides.github.com/features/mastering-markdown/ 
- - probably the only one I will need, more of a reference than a phylosophy. still very usefull
+  - probably the only one I will need, more of a reference than a phylosophy. still very usefull
  
  
  
