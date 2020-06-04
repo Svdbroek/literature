@@ -58,8 +58,6 @@ I will try to add notes to read literature for indexing, reviewing and recapitul
   
   
   
-  
-  
  ### changenotes
  
  04/06/2020
