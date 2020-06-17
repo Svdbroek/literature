@@ -77,6 +77,7 @@ I will try to add notes to read literature for indexing, reviewing and recapitul
  * work got in the way of reading, back in the saddle. 
  * added some articles under REST API, gave a reflaction on them
  * added new category for documentation writing
+ 
  04/06/2020
  * first listing  of recent articles I read, will add more as time goes on
  * need to think of way to organize, mark articles as read/unread, purpose (copy/pasta, information, phylosophy)
