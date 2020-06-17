@@ -32,7 +32,7 @@ I will try to add notes to read literature for indexing, reviewing and recapitul
   - basepoint for a grand search on restful api's. one answer stood out to me:
     > "Resources don't need to map to your database or app models". what a resource means in this context is not yet clear to me. will require additional reading. Listed below:
     
-*[From: readthedocs.io](https://restful-api-design.readthedocs.io/en/latest/resources.html#:~:text=The%20fundamental%20concept%20in%20any,methods%20that%20operate%20on%20it.&text=Each%20collection%20is%20homogeneous%20so,type%20of%20resource%2C%20and%20unordered.) On resources in a rest API
+* [From: readthedocs.io](https://restful-api-design.readthedocs.io/en/latest/resources.html#:~:text=The%20fundamental%20concept%20in%20any,methods%20that%20operate%20on%20it.&text=Each%20collection%20is%20homogeneous%20so,type%20of%20resource%2C%20and%20unordered.) On resources in a rest API
 
 ## JS
 * https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript
