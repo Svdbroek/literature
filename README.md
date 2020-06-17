@@ -33,6 +33,13 @@ I will try to add notes to read literature for indexing, reviewing and recapitul
     > "Resources don't need to map to your database or app models". what a resource means in this context is not yet clear to me. will require additional reading. Listed below:
     
 * [From: readthedocs.io](https://restful-api-design.readthedocs.io/en/latest/resources.html#:~:text=The%20fundamental%20concept%20in%20any,methods%20that%20operate%20on%20it.&text=Each%20collection%20is%20homogeneous%20so,type%20of%20resource%2C%20and%20unordered.) On resources in a rest API
+  - a little more basic than I had hoped, still gave me some insight on what an API really is. Worth reading the complete document, is a short read. 
+  - still looking for a more definitive answer on what is a resource
+
+* https://www.infoq.com/presentations/effective-api-design/
+  - presentation on API-design phylosophy, more focussed on public APIs. Still offered valuable insight into designing code, not only for APIs but any application. 
+  -sparked some interest in learning to write documentation, readme's
+ 
 
 ## JS
 * https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript
@@ -58,14 +65,18 @@ I will try to add notes to read literature for indexing, reviewing and recapitul
   - writing queries for MySQL in php, interesting. 
   
 ## Shell usage
-  
+ 
+ 
+## Documention/Readme writning
+
   
   
  ### changenotes
  
  17/06/2020
  * work got in the way of reading, back in the saddle. 
- * added article under REST API 
+ * added some articles under REST API, gave a reflaction on them
+ * added new category for documentation writing
  04/06/2020
  * first listing  of recent articles I read, will add more as time goes on
  * need to think of way to organize, mark articles as read/unread, purpose (copy/pasta, information, phylosophy)
