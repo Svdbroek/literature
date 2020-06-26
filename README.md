@@ -56,7 +56,10 @@ I will try to add notes to read literature for indexing, reviewing and recapitul
 * https://stackoverflow.com/questions/30365346/what-is-the-spaceship-operator-in-php-7
   - simple question, could use some rereading, right now php is a mystery to me
   
- 
+* https://www.zentut.com/php-tutorial/php-magic-methods/
+  on getters and setters for PHP objects
+
+
 ## MySQL
 * https://stackoverflow.com/questions/41861914/php-sql-multiple-fuzzy-keyword-search-based-on-likeness-advanced-sql-search
   - needs reading
